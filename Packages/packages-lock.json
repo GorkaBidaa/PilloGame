@@ -301,6 +301,30 @@
       },
       "url": "https://packages.unity.com"
     },
+    "nl.hulan.pillo-sdk.debugger": {
+      "version": "file:C:/Users/gbida/Downloads/pillo-sdk-master/pillo-sdk-master/UnityDebugger",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "nl.hulan.pillo-sdk.device-manager": "5.2.0",
+        "com.unity.modules.imgui": "1.0.0"
+      }
+    },
+    "nl.hulan.pillo-sdk.device-manager": {
+      "version": "file:C:/Users/gbida/Downloads/pillo-sdk-master/pillo-sdk-master/UnityDeviceManager",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "nl.hulan.pillo-sdk.simulator": {
+      "version": "file:C:/Users/gbida/Downloads/pillo-sdk-master/pillo-sdk-master/UnitySimulator",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "nl.hulan.pillo-sdk.device-manager": "5.2.0",
+        "com.unity.modules.imgui": "1.0.0"
+      }
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
