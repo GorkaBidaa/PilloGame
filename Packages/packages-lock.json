@@ -302,28 +302,31 @@
       "url": "https://packages.unity.com"
     },
     "nl.hulan.pillo-sdk.debugger": {
-      "version": "file:C:/Users/gbida/Downloads/pillo-sdk-master/pillo-sdk-master/UnityDebugger",
+      "version": "https://github.com/hulanbv/pillo-sdk.git?path=/UnityDebugger",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "nl.hulan.pillo-sdk.device-manager": "5.2.0",
         "com.unity.modules.imgui": "1.0.0"
-      }
+      },
+      "hash": "fca8a7b72bbb7a31054bb6b5c553eba071867223"
     },
     "nl.hulan.pillo-sdk.device-manager": {
-      "version": "file:C:/Users/gbida/Downloads/pillo-sdk-master/pillo-sdk-master/UnityDeviceManager",
+      "version": "https://github.com/hulanbv/pillo-sdk.git?path=/UnityDeviceManager",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "fca8a7b72bbb7a31054bb6b5c553eba071867223"
     },
     "nl.hulan.pillo-sdk.simulator": {
-      "version": "file:C:/Users/gbida/Downloads/pillo-sdk-master/pillo-sdk-master/UnitySimulator",
+      "version": "https://github.com/hulanbv/pillo-sdk.git?path=/UnitySimulator",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "nl.hulan.pillo-sdk.device-manager": "5.2.0",
         "com.unity.modules.imgui": "1.0.0"
-      }
+      },
+      "hash": "fca8a7b72bbb7a31054bb6b5c553eba071867223"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",

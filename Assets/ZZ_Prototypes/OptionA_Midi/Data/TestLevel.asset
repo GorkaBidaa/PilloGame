@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43957131baacfcd42b0fedb3b4161ed6, type: 3}
+  m_Name: TestLevel
+  m_EditorClassIdentifier: Assembly-CSharp::PilloRhythm.ProtoA.MidiLevelDataAsset
+  songClip: {fileID: 8300000, guid: 635f9ffcb908e0a42bc120b296b8be17, type: 3}
+  firstBeatOffset: 0
+  approachTimeSeconds: 2
+  midiFileAsset: {fileID: 102900000, guid: acf75d3a6cc602649915410700357761, type: 3}
+  notes:
+  - hitTimeSeconds: 3
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 3.75
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 4.5
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 5.25
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 6
+    durationSeconds: 1.125
+    noteType: 2
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 7.5
+    durationSeconds: 1.125
+    noteType: 3
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 9
+    durationSeconds: 1.125
+    noteType: 4
+    targetPressureStart: 15
+    targetPressureEnd: 100
+  - hitTimeSeconds: 10.5
+    durationSeconds: 1.125
+    noteType: 5
+    targetPressureStart: 100
+    targetPressureEnd: 15
+  - hitTimeSeconds: 12
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 12.5
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 13
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 13.5
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 14
+    durationSeconds: 1
+    noteType: 2
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 15
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 15.5
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 16
+    durationSeconds: 1
+    noteType: 4
+    targetPressureStart: 15
+    targetPressureEnd: 100
+  - hitTimeSeconds: 17
+    durationSeconds: 1
+    noteType: 5
+    targetPressureStart: 100
+    targetPressureEnd: 15
+  - hitTimeSeconds: 18
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 18.5
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 19
+    durationSeconds: 0.75
+    noteType: 3
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 20
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 20.5
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 21
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 21.5
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 22
+    durationSeconds: 1
+    noteType: 2
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 23
+    durationSeconds: 1
+    noteType: 4
+    targetPressureStart: 15
+    targetPressureEnd: 100
+  - hitTimeSeconds: 24
+    durationSeconds: 1
+    noteType: 5
+    targetPressureStart: 100
+    targetPressureEnd: 15
+  - hitTimeSeconds: 25
+    durationSeconds: 1
+    noteType: 3
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 26
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 26.5
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
+  - hitTimeSeconds: 27
+    durationSeconds: 0
+    noteType: 0
+    targetPressureStart: 35
+    targetPressureEnd: 35
+  - hitTimeSeconds: 27.5
+    durationSeconds: 0
+    noteType: 1
+    targetPressureStart: 80
+    targetPressureEnd: 80
