@@ -115,3 +115,7 @@ InitTestScene*.unity*
 .vscode/extensions.json
 .gitignore
 .vscode/settings.json
+
+#Code2Prompt
+code2prompt.exe
+revision.txt
